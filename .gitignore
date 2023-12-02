@@ -1,0 +1,4 @@
+/.idea
+/venv
+/tg.db
+/app/__pycache__
